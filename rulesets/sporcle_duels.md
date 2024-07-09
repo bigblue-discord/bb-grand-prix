@@ -2,7 +2,6 @@
 
 # Access
 https://www.sporcle.com/
-Click "RANDOM QUIZ"
 
 # Ruleset
 1. Two persons per team - teams are chosen randomly and remain consistent through the entirety of the tourney
