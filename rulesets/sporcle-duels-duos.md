@@ -10,7 +10,7 @@ The [Sporcle](https://www.sporcle.com/) website
 |---|---|
 |**Players per Team**|2|
 |**Bracket Format**:|Double Elimination|
-|**Set Format**:|First to 5|
+|**Set Format**:|BO3, BO5 for finals|
 
 
 1. Spellcheck is allowed, but you can only use the built-in browser spell check. 
